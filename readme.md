@@ -49,3 +49,9 @@ b
 ingles
 español
 portuñol
+=======
+- Back-End: Proficient in Java, I bring to the table a strong understanding of ssaasdad
+asd
+asd
+a
+sda
