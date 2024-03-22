@@ -13,6 +13,7 @@ hacer el cierre de la presenta cion , invitando a contactar...
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...aa
+
 ## Hobbies
 de aaaaaaaaaaa
 sa aaaaaa
@@ -34,6 +35,8 @@ s
 s
 s
 ## Skills
+couch
+deporte
 COucheing
 bbb
 b
@@ -41,5 +44,4 @@ bb
 b
 b
 b
-
 
